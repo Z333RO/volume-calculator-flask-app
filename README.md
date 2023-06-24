@@ -2,7 +2,7 @@
 Volume Calculator App - Built using Flask w/ Jinja2 
 
 ```
-git clone https://github.com/Z333RO/volume-calculator-flask-app/
+git clone https://github.com/Z333RO/volume-calculator-flask-app
 cd volume-calculator-flask-app/
 python3 main.py
 ```
