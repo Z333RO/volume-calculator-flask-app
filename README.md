@@ -9,4 +9,4 @@ python3 main.py
 
 Navigate to 127.0.0.1:3000 and enter values to calculate volume.
 
-![[vcalc-screenshot.png]]
+[[vcalc-screenshot.png]]
